@@ -1,4 +1,4 @@
-# 📓 NEOTERM_NOTEBOOK_V1
+## 📓 NEOTERM NOTEBOOK
 
 > **Cloud-Based Private Notebook with Neo-Brutalist Aesthetic.**
 
