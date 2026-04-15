@@ -4,7 +4,7 @@
 
 Aplikasi catatan "sadis" yang gak cuma simpan data, tapi punya karakter. Dibangun di atas **Firebase Realtime Engine** dengan interface yang melabrak aturan desain konvensional.
 
-## 💀 Kenapa Ini Lebih Ganas?
+## 💀 Descryption
 - **Aggressive UI:** Tidak ada rounded corners, tidak ada gradien halus. Hanya garis tajam dan kontras tinggi.
 - **Biometric-Ready PIN:** Amankan catatan rahasia kamu dengan enkripsi PIN 4-digit berbasis session.
 - **PWA (Zero-Install):** Bisa di-install di Android/iOS dan jalan super kencang karena aset di-cache secara lokal.
